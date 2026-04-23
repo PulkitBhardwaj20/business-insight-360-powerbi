@@ -1,4 +1,4 @@
-# 📊 Business Insight 360 – Power BI Dashboard
+# 📊 Business Insight 360 – End-to-End Power BI Project
 
 > 🚀 Interactive Power BI dashboard delivering unified business insights across Finance, Sales, Marketing, and Supply Chain.
 
@@ -19,6 +19,8 @@
 Business Insight 360 is a multi-domain business intelligence solution designed to provide a unified view of company performance.
 It enables stakeholders to track financial metrics, customer behavior, product performance, and operational efficiency in one place.
 
+This project simulates a real-world business scenario where data is used to drive decision-making across departments.
+
 ---
 
 ## 💡 Business Problem
@@ -33,6 +35,15 @@ This dashboard integrates data across Finance, Sales, Marketing, and Supply Chai
 
 ---
 
+## 📈 Key Insights
+
+* Identified top-performing products and customers contributing to overall revenue
+* Analyzed profit margins across regions to highlight underperforming markets
+* Evaluated forecast accuracy to improve supply chain planning
+* Compared year-over-year financial performance for strategic decision-making
+
+---
+
 ## 🎯 Key Features
 
 * Executive-level overview dashboard
@@ -42,6 +53,15 @@ This dashboard integrates data across Finance, Sales, Marketing, and Supply Chai
 * Market share trend analysis
 * Forecast accuracy and risk insights
 * Interactive filtering across region, product, customer, and time
+
+---
+
+## ⚙️ Technical Highlights
+
+* Built calculated measures using DAX (YoY growth, profit %, forecast accuracy)
+* Designed interactive dashboards using bookmarks and navigation buttons
+* Implemented data modeling using star/snowflake schema
+* Optimized report performance and usability
 
 ---
 
